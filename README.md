@@ -28,7 +28,7 @@ Figure 1. Top 10 states where the store's sales are from.
 ![10_cities](img/city.png)
 Figure 2. Top 10 cities generate sales for the store.
 
-![customers](img/cust_segment.png)
+![customers](img/cust_seg.png)
 Figure 3. Portions of customers purchase from the superstore.
 
 ![products](img/product_cat.png)
