@@ -25,20 +25,20 @@ A README.md file as a brief look at this repository.
 ![10_states](img/state.png)
 Figure 1. Top 10 states where the store's sales are from.
 
-![10_cities](img/city.JPG)
+![10_cities](img/city.png)
 Figure 2. Top 10 cities generate sales for the store.
 
-![customers](img/cust_segment.JPG)
+![customers](img/cust_segment.png)
 Figure 3. Portions of customers purchase from the superstore.
 
-![products](img/product_cat.JPG)
+![products](img/product_cat.png)
 Figure 4. Sales distributions from the three product categories: technology, furniture, and office supplies.
 
 ## SARIMA Model <a name="Model"></a>
 The model is first built on the train set, then predicts the sales on the test set. 
 The mean forecast error of this model is 132.72 which indicates **under-forecasting**. 
 
-![SARIMA](img/SARIMA_model.JPG)
+![SARIMA](img/SARIMA_model.png)
 Figure 5. Model's prediction on the given dataset and its forecast for the next 10 months.
 
 The model is then fit and trained on the whole original dataset, then forecast the sales for the next 10 months. 
